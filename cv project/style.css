@@ -1,0 +1,103 @@
+*{margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Open Sans', sans-serif;
+
+} 
+.container{
+    max-width:1000px;
+    background-color: rgb(46, 201, 15);
+    margin:0 auto;
+    padding:20px;
+}
+ 
+.profile-image{
+    width:100px;
+    height:120px;
+    border:3px solid rgba(79, 9, 243, 0.925);
+    border-radius:50%;
+    float: left;
+    
+}
+.rakib{ float: left;
+    padding: 30px;
+
+}
+h1 ,h2, h3, h4 ,h5, h6{
+    color:rgb(78, 14, 230);
+}
+.contact{
+    float:right;
+    padding: 30px;
+}
+.contact a{
+    text-decoration: none;
+    color: rgba(9, 247, 80, 0.712);
+    font-weight:bold;
+
+}
+.contact a:hover{
+    text-decoration: underline;
+    color:tomato;
+
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 020px auto;
+    border-bottom: none;
+}
+.content{margin-bottom:1px;
+
+}
+.left{
+    width: 30%;
+    float: left;
+
+}
+.right{
+    width: 70%;
+    float: left;
+
+}
+ 
+.common-hr{
+    border:solid black 1px;
+    border-bottom: none;  
+    width: 100%;
+    margin:20px auto;
+    
+}
+.e-left{
+    float: left;
+    width: 35%;
+}
+.e-left{
+    float: right;
+    width: 35%;
+}
+.bottom{
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+.bottom a{
+    text-decoration: none;
+    color: blanchedalmond;
+    margin: 20px;
+
+}
+
+.bottom p{
+
+    color: blanchedalmond;
+    margin-top: 20px;
+
+}
+ 
+ 
